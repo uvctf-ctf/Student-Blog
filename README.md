@@ -3,8 +3,6 @@
 Welcome to **Campus Blog**, a simple student-run blogging platform intended for learning, collaboration, and practicing web development.
 This repository contains a minimal PHP-based blog used by the student team to post announcements, share tutorials, and coordinate campus events.
 
-> **Note:** This repo is intentionally simple and educational. Do not use it in production without a security review.
-
 ---
 
 ## Table of Contents
@@ -225,8 +223,6 @@ This project is intentionally imperfect for training purposes. Known weaknesses 
 * **Comments reflection:** The app may echo comment HTML back to the page for learning XSS vectors — exercise caution.
 * **Admin page exposure:** The admin page may be intentionally reachable via token tampering or through obscure URLs for CTF tasks.
 
-> Do **not** use this code as-is in production. Treat it as an educational sandbox.
-
 ---
 
 ## License
@@ -237,7 +233,7 @@ This project is provided for educational purposes. Use and modify freely for tea
 
 ## Flag (for QA / graders)
 
-The secret flag is included below (this file is intentionally visible in the challenge fork for OSINT training):
+The secret flag is included below:
 
 ```
 UVCTF{github_detective_7c2b}
