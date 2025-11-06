@@ -229,18 +229,6 @@ This project is intentionally imperfect for training purposes. Known weaknesses 
 
 This project is provided for educational purposes. Use and modify freely for teaching, CTFs, and training. No warranty is provided. If you use it publicly, please credit the original source.
 
----
-
-## Flag (for QA / graders)
-
-The secret flag is included below:
-
-```
-UVCTF{github_detective_7c2b}
-```
-
----
-
 If you want, I can also:
 
 * produce a ready-to-upload zip with `leaked/secrets.txt` containing the flag (so you can push it into the fork), or
