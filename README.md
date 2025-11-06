@@ -228,9 +228,3 @@ This project is intentionally imperfect for training purposes. Known weaknesses 
 ## License
 
 This project is provided for educational purposes. Use and modify freely for teaching, CTFs, and training. No warranty is provided. If you use it publicly, please credit the original source.
-
-If you want, I can also:
-
-* produce a ready-to-upload zip with `leaked/secrets.txt` containing the flag (so you can push it into the fork), or
-* generate a short instructor PDF with hints and the grader acceptance regex, or
-* create a commit history example to hide the flag in an earlier revision instead of the main branch.
