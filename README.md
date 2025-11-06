@@ -22,7 +22,7 @@ This repository contains a minimal PHP-based blog used by the student team to po
 * [Development Notes & TODOs](#development-notes--todos)
 * [Security Notes & Known Issues](#security-notes--known-issues)
 * [License](#license)
-* [Flag (for QA / graders)](#flag-for-qa--graders)
+* [Flag (HAS BEEN REMOVED, FIND SOMEWHERELSE)](#flag-for-qa--graders)
 
 ---
 
